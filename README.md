@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I`m Andrii Dmytrenko</h1>
 <h2 align="center">Full Stack student from Ukraine</h2>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Java
 - 🖥️ looking for a permanent job
 - 😄 Fun fact: When I start writing code, I forget about food and sleep.
 
